@@ -1,0 +1,44 @@
+{
+    "sites": [
+        {
+            "key": "275ts",
+            "name": "275听书",
+            "type": 3,
+            "api": "./dr/lib/drpy2.min.js",
+            "ext": "./275听书.js",
+            "playerType": 2
+        },
+        {
+            "key": "bokants",
+            "name": "博看听书",
+            "type": 3,
+            "api": "./dr/lib/drpy2.min.js",
+            "ext": "./博看听书.js",
+            "playerType": 2
+        },
+        {
+            "key": "tingyoufm",
+            "name": "听友FM",
+            "type": 3,
+            "api": "./dr/lib/drpy2.min.js",
+            "ext": "./听友FM.js",
+            "playerType": 2
+        },
+        {
+            "key": "fanqie",
+            "name": "番茄畅听",
+            "type": 3,
+            "api": "./dr/lib/drpy2.min.js",
+            "ext": "./番茄畅听.js",
+            "playerType": 2
+        },
+        {
+            "key": "kuwo",
+            "name": "酷我听书",
+            "type": 3,
+            "api": "./dr/lib/drpy2.min.js",
+            "ext": "./酷我听书.js",
+            "playerType": 2
+        }
+    ]
+}
