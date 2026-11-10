@@ -1,44 +1,60 @@
 {
     "sites": [
         {
-            "key": "275ts",
-            "name": "275听书",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://github.com/wujb1976/ts/blob/main/dr/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://github.com/wujb1976/ts/blob/main/275听书.js",
-            "playerType": 2
-        },
+      "key": "世界听书",
+      "name": "世界听书",
+      "type": 3,
+      "api": "./py/世界听书.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
         {
-            "key": "bokants",
-            "name": "博看听书",
-            "type": 3,
-            "api": "./dr/lib/drpy2.min.js",
-            "ext": "./博看听书.js",
-            "playerType": 2
-        },
+      "key": "kulao音乐",
+      "name": "kulao音乐",
+      "type": 3,
+      "api": "./py/kulao音乐.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
         {
-            "key": "tingyoufm",
-            "name": "听友FM",
-            "type": 3,
-            "api": "./dr/lib/drpy2.min.js",
-            "ext": "./听友FM.js",
-            "playerType": 2
-        },
+      "key": "kulao听书",
+      "name": "kulao听书",
+      "type": 3,
+      "api": "./py/kulao听书.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
         {
-            "key": "fanqie",
-            "name": "番茄畅听",
-            "type": 3,
-            "api": "./dr/lib/drpy2.min.js",
-            "ext": "./番茄畅听.js",
-            "playerType": 2
-        },
+      "key": "kulao广播",
+      "name": "kulao广播",
+      "type": 3,
+      "api": "./py/kulao广播.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
         {
-            "key": "kuwo",
-            "name": "酷我听书",
-            "type": 3,
-            "api": "./dr/lib/drpy2.min.js",
-            "ext": "./酷我听书.js",
-            "playerType": 2
-        }
+      "key": "爱听音乐",
+      "name": "爱听音乐",
+      "type": 3,
+      "api": "./py/爱听音乐.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
+        {
+      "key": "央视影视",
+      "name": "央视影视",
+      "type": 3,
+      "api": "./py/央视影视.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    }
+       
+       
     ]
 }
