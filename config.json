@@ -53,6 +53,26 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":1     
+    },
+        {
+      "key": "360kan",
+      "name": "360影视[官]",
+      "type": 3,
+      "api": "./js/360影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "a8music",
+      "name": "A8音乐",
+      "type": 3,
+      "api": "./js/A8音乐.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     }
        
        
